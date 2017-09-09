@@ -15,7 +15,7 @@ If You Are Still Getting Errors Try It On Windows 7
 
 Congrats You Have Successfully Unbricked Your Device, Enjoy
 
-I Have Tested Files Myself After Fixing Some, After Having Issues Myself and They Are Now Working 100%, 
+I Have Tested The Files Myself After Fixing A Problem I Was Having and They Are Now Working 100%, 
 If You Need Any Help Please Don't Hesitate To Contact Me on: Jordell2009@hotmail.co.uk
 
 *Credits To: Brka on forum.gsmhosting.com For Being Amazing and Providing The Stock Rom Files
