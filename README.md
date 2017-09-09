@@ -14,3 +14,4 @@ I Have Tested Files Myself After Fixing Some, After Having Issues Myself and The
 If You Need Any Help Please Don't Hesitate To Contact Me on: Jordell2009@hotmail.co.uk
 
 *Credits To: Brka on forum.gsmhosting.com For Being Amazing and Providing The Stock Rom Files
+*Brka - http://forum.gsmhosting.com/vbb/member.php?u=163 Go check him out :)
