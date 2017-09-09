@@ -1,12 +1,17 @@
 # Alcatel-Pop-4-5051x-Unbrick
 
-*I Have Include All Files Needed To Do Fix Your Device.
+*I Have Include All Files Needed To Fix Your Device.
 
-1)Install qualcomm driver, Make Sure It Says 9008COM Driver or You Might Encounter Errors.
+1)Install qualcomm driver, Make Sure It Says ( 9008COM ) Driver or You Might Encounter Errors
 2)Install QFIL Flash Tool
 3)Copy Stock Rom Files to Root of ( C:// Drive )
 4)Plug Device In to PC and Wait For It To Be Reconised On QFIL Flash Tool
 5)Load All Files and Click Download and Wait For Process To Finish After It Succeeded, Click Exit on Tool and Uplug Device From Pc and Reboot Device
+
+If You Are Still Getting Errors Try It On Windows 7
+
+*Link To QFIL Flash Tool:
+*Link To Stock Rom:
 
 Congrats You Have Successfully Unbricked Your Device, Enjoy
 
