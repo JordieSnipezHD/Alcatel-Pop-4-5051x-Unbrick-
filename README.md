@@ -10,8 +10,8 @@
 
 If You Are Still Getting Errors Try It On Windows 7
 
-*Link To QFIL Flash Tool:
-*Link To Stock Rom:
+*Link To QFIL Flash Tool: https://drive.google.com/file/d/0B6VfmO-GyAJgaU14aUlSUjYtRWc/view?usp=sharing
+*Link To Stock Rom: https://drive.google.com/file/d/0B6VfmO-GyAJgSlhFQVVZUEtsdEE/view?usp=sharing
 
 Congrats You Have Successfully Unbricked Your Device, Enjoy
 
